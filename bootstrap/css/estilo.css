@@ -1,0 +1,15 @@
+    h1 {color:brown;text-align: center;}
+
+    .paragrafo{size: 20px; text-align: justify}
+
+    body{background-color: antiquewhite; } 
+
+    .lista1{padding-bottom: 5px;margin-bottom: 5px;}
+    .lista2{padding-bottom: 5px;margin-bottom: 5px;}
+    .lista3{padding-bottom: 5px;margin-bottom: 5px;}
+
+    .minhaimagem{border-radius: 50%;}
+
+    .tabela{background-color: white; border-color: black;}
+    
+    a:hover{color: green;}
